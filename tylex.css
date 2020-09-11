@@ -1,0 +1,12 @@
+body {
+    background-color: #999;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px;
+}
+
+.block {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(0, 140, 255);
+}
